@@ -1,5 +1,5 @@
 # BIOS_QR_Plugin
-[![License: MIT](https://img.shields.io/badge/Chrome_Extension-444444?logo=google+chrome&logoColor=4285F4&style=plastic)](chrome://extensions/)
+[![License: MIT](https://img.shields.io/badge/Chrome_Extension-444444?logo=google+chrome&logoColor=4285F4&style=plastic)](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen?style=plastic)](https://opensource.org/licenses/MIT)
 ![Version: v1.0](https://img.shields.io/badge/Version-v1.0-blue?style=plastic)
 
