@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "BIOS Password QR",
     "description": "Plugin for bios-pw.org to generate a scanable QR code on generated codes.",
-    "version": "1.0",
+    "version": "2.0",
     "author": "Josh Wallace",
     "content_scripts":[
         {
